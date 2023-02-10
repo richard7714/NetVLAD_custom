@@ -1,0 +1,9 @@
+ckpt
+Query_resized
+Reference_resized
+test*
+berlin.mat
+pittsburgh_checkpoint.pth.tar
+.idea
+experiment/train_*
+*.pyc
